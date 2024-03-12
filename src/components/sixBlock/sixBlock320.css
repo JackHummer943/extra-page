@@ -1,0 +1,37 @@
+.six_title {
+  display: flex;
+  justify-content: space-between;
+}
+
+.six_row {
+  display: flex;
+  color: #FFFFFF;
+  font-size: 8px;
+  padding-top: 15px;
+  padding-left: 40px;
+}
+
+.six_title {
+  padding: 10px 35px 0px 16px;
+  text-align: left;
+}
+
+.six_description {
+  font-size: 4px;
+  padding: 10px 20px 0 0;
+}
+
+
+p {
+  position: relative;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.six_text {
+  text-align: left;
+}
+
+

@@ -1,0 +1,36 @@
+.eight_title {
+  display: flex;
+  justify-content: space-between;
+}
+
+.eight_row {
+  display: flex;
+  color: #FFFFFF;
+  font-size: 8px;
+  padding-top: 15px;
+  padding-left: 40px;
+}
+
+.eight_title {
+  padding: 10px 20px 0px 16px;
+  text-align: left;
+}
+
+.eight_description {
+  font-size: 4px;
+  padding: 10px 20px 0 0;
+}
+
+p {
+  position: relative;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.eight_text {
+  text-align: left;
+}
+
+

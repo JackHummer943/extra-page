@@ -1,0 +1,65 @@
+.ten_title {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ten_row {
+  display: flex;
+  color: #FFFFFF;
+  font-size: 8px;
+  padding: 15px;
+  padding-left: 40px;
+  padding-right: 0px;
+}
+
+.ten_title {
+  padding: 10px 20px 0px 16px;
+  text-align: left;
+}
+
+.ten_description {
+  font-size: 4px;
+  padding: 5px 20px 20px 50px;
+}
+
+p {
+  position: relative;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.ten_text {
+  margin: 2px;
+  text-align: left;
+}
+
+.pointerOne {
+  position: absolute;
+  top: 1085px;
+  left: 223px;
+  transform: scale(0.1);
+}
+
+.pointerTwo {
+  position: absolute;
+  top: 1090px;
+  left: 240px;
+  transform: scale(0.1);
+}
+
+.pointerThree {
+  position: absolute;
+  top: 1097px;
+  left: 233px;
+  transform: scale(0.1);
+}
+
+.pointerFour {
+  position: absolute;
+  top: 1102px;
+  left: 227px;
+  transform: scale(0.1);
+}
+
