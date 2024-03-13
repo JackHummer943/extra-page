@@ -13,6 +13,7 @@ import twoImage from './../src/img/twoImage.png';
 import thirdImage from './../src/img/thirdImage.png';
 import fourthImage from './../src/img/fourthImage.png';
 import TenBlock from './components/tenBlock/TenBlock';
+import Footer from './components/footer/Footer';
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
       {/* <NineBlock/> */}
       <Image src={fourthImage} alt="Image 4" />
       <TenBlock />
+      <Footer />
     </div>
   );
 }
