@@ -1,22 +1,16 @@
 .footer {
-  width: 320px;
-  height: 150px;
   background-color: #FFFFFF;
 }
 
 .footer_row {
   display: flex;
-  color: #0C0C0C;
   font-size: 8px;
-  padding-left: 40px;
-  padding-top: 10px;
+  padding: 10px 40px 10px;
 }
-
 
 .footer_line {
   bottom: 20px
 }
-
 
 .line {
   width: 80%;
@@ -28,7 +22,7 @@
 
 .footer_central {
   display: flex;
-  padding: 20px;
+  padding: 10px 20px 0px;
 }
 
 .footer_left {
@@ -36,8 +30,7 @@
 }
 
 .footer_central_left {
-  width: 150px;
-  padding-right: 10px; 
+  width: 120px;
   margin-left: 20px;
   font-size: 6px;
 }
@@ -46,10 +39,9 @@ p {
   color: #0C0C0C;
 }
 
-
 .central_left_mail {
   text-decoration: underline;
-  margin: 10px 0 10px;
+  margin: 17px 0 17px;
 }
 
 .footer_rigth_text {
@@ -58,15 +50,28 @@ p {
 }
 
 .central_left_text_last {
-  margin: 10px 0 10px;
+  margin: 23px 0 0px;
+}
+
+.footer_rigth_container {
+    position: relative;
+    top: 5px;
 }
 
 .input {
-  width: 70px;
+  width: 140px;
+  padding: 2px;
   background-color: #e8e8e8;
   border-radius: 5px;
-  padding: 2px;
-  font-size: 8px;
+  font-size: 6px;
+  color: #BFBFBF;
+  text-indent: 5px;
+}
+
+.footer_last_block {
+  display: flex;
+  width: 300px;
+  padding: 0px 10px 0px;
 }
 
 .footer_pointer {
@@ -74,5 +79,86 @@ p {
 }
 
 .checkbox {
-  
+  position: relative;
+  display: flex;
+  width: 7px;
+  left: 0px;
+}
+
+.row_checkbox {
+  display: flex;
+}
+
+.checkbox_description {
+  font-size: 4px;
+  margin: 0px;
+  padding-top: 4px;
+  padding-left: 4px;
+}
+
+.last_block_col_one {
+  width: 80px;
+}
+
+.last_block_col_two {
+  position: relative;
+  width: 80px;
+}
+
+.last_block_col_three {
+  width: 80px;
+}
+
+.button_submit {
+  display: flex;
+  width: 30px;
+  height: 10px;
+  padding-left: 3px;
+  margin-left: 5px;
+  border-radius: 3px;
+  background-color: #0B0B0B66;
+  font-size: 6px;
+}
+
+.button_menu_pointer {
+  position: relative;
+    transform: scale(0.1);
+    float: left;
+    right: 19px;
+    bottom: 7px;
+}
+
+.button_menu {
+  position: relative;
+  width: 35px;
+  height: 13px;
+  bottom: 10px;
+  border-radius: 5px;
+  background-color: #0C0C0C;
+  font-size: 6px;
+}
+
+.burger {
+  transform: scale(0.3);
+  padding-top: 4px;
+}
+
+.button_menu_submit {
+  left: 3px;
+  top: 3px;
+  font-size: 4px;
+  color: #FFFFFF;
+  margin: 0px;
+}
+
+.button_menu_text {
+  top: 3px;
+  left: 0px;
+  font-size: 5px;
+  color: #FFFFFF;
+  margin: 0px;
+}
+
+.footer_logo {
+  transform: scale(0.25);
 }

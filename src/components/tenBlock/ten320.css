@@ -31,36 +31,22 @@ p {
 }
 
 .ten_text {
+  font-size: 5px;
   margin: 2px;
   text-align: left;
   color: #FFFFFF;
 }
 
-.pointerOne {
-  position: absolute;
-  top: 1085px;
-  left: 223px;
-  transform: scale(0.1);
+.pointer {
+  display: flex;
+  width: 55px;
+  height: 10px;
 }
 
-.pointerTwo {
-  position: absolute;
-  top: 1090px;
-  left: 240px;
-  transform: scale(0.1);
+.pict {
+  position: relative;
+  transform: scale(0.4);
 }
 
-.pointerThree {
-  position: absolute;
-  top: 1097px;
-  left: 233px;
-  transform: scale(0.1);
-}
 
-.pointerFour {
-  position: absolute;
-  top: 1102px;
-  left: 227px;
-  transform: scale(0.1);
-}
 

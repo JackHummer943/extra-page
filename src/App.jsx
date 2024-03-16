@@ -3,10 +3,8 @@ import './App.css';
 import Title from './components/title/Title';
 import Image from './components/image/Image';
 import FourBlock from './components/fourBlock/FourBlock';
-import FiveBlock from './components/fiveBlock/Five';
 import SixBlock from './components/sixBlock/SixBlock';
-// import SevenBlock from './components/SevenBlock';
-import EightBlock from './components/eightBlock/EightBlock';
+import EightBlock from './components/EightBlock/EightBlock';
 
 import MainImg from './../src/img/MainImg.png';
 import twoImage from './../src/img/twoImage.png';
@@ -23,12 +21,9 @@ function App() {
       <Image src={MainImg} alt="image 1" />
       <FourBlock />
       <Image src={twoImage} alt="image 2" />
-      {/* <FiveBlock /> */}
       <SixBlock />
       <Image src={thirdImage} alt="Image 3" />
-      {/* <SevenBlock /> */}
       <EightBlock />
-      {/* <NineBlock/> */}
       <Image src={fourthImage} alt="Image 4" />
       <TenBlock />
       <Footer />

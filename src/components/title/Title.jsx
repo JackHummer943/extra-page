@@ -15,10 +15,7 @@ const Title = () => {
             </button>
           </div>
         </div>
-        <div className="title_line">
-          {/* <img src={Line} alt="Line" /> */}
-          <div className="line"> </div>
-        </div>
+        <div className="title_line"></div>
       </div>
     </section>
   );

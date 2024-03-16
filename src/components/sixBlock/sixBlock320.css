@@ -1,8 +1,3 @@
-.six_title {
-  display: flex;
-  justify-content: space-between;
-}
-
 .six_row {
   display: flex;
   color: #FFFFFF;
@@ -12,6 +7,8 @@
 }
 
 .six_title {
+  display: flex;
+  justify-content: space-between;
   padding: 10px 35px 0px 16px;
   text-align: left;
 }
@@ -21,17 +18,13 @@
   padding: 10px 20px 0 0;
 }
 
-
-p {
+.six_text {
   position: relative;
-  color: #FFFFFF;
   display: flex;
+  text-align: left;
+  color: #FFFFFF;
   justify-content: space-between;
   margin-bottom: 10px;
-}
-
-.six_text {
-  text-align: left;
 }
 
 

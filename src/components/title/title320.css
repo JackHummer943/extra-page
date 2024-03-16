@@ -28,18 +28,26 @@
   font-size: 4px;
 }
 
-.title_line {
-  bottom: 20px
-}
+
 
 .title_filter {
   margin-left: 50px;
 }
 
-.line {
+.title_line {
+  bottom: 20px;
   width: 80%;
   height: 0.5px;
   border-radius: 1px;
   margin-left: 40px;
   background: #FFFFFF;
 }
+
+
+/* .line {
+  width: 80%;
+  height: 0.5px;
+  border-radius: 1px;
+  margin-left: 40px;
+  background: #FFFFFF;
+} */

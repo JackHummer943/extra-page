@@ -6,7 +6,7 @@ const EightBlock = () => {
         <div className="eight_row">
           <div className="eight_title">TECHNICAL IMPLEMENTATION</div>
           <div className="eight_description">
-            <p className="eight_text">
+            <p className="eight_description_text">
               Together with the Kanvas technical team, we discussed the show's format while also
               focusing on individual artist presentations. Since the art was intended to be
               projected on the walls and floor, it was critical to plan the “flow" and synchronise

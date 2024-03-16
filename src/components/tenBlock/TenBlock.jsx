@@ -8,15 +8,30 @@ const TenBlock = () => {
           <div className="ten_title">MEDIA PUBLICATIONS</div>
           <div className="ten_description">
             <div className="ten_text_row">
-              <p className="ten_text">NewsBTC</p>{' '}
-              <img src={Pointer} alt="Pointer" className="pointerOne" />
+              <div className="pointer">
+                {' '}
+                <p className="ten_text">NewsBTC</p>{' '}
+                <img src={Pointer} alt="Pointer" className="pict" />
+              </div>
+
+              <div className="pointer">
+                {' '}
+                <p className="ten_text">Porterium Magazine</p>{' '}
+                <img src={Pointer} alt="Pointer" className="pict" />
+              </div>
+
+              <div className="pointer">
+                {' '}
+                <p className="ten_text">Dubai Horizons</p>{' '}
+                <img src={Pointer} alt="Pointer" className="pict" />
+              </div>
+
+              <div className="pointer">
+                {' '}
+                <p className="ten_text">Artocratia</p>{' '}
+                <img src={Pointer} alt="Pointer" className="pict" />
+              </div>
             </div>
-            <p className="ten_text">Porterium Magazine</p>
-            <img src={Pointer} alt="Pointer" className="pointerTwo" />
-            <p className="ten_text">Dubai Horizons</p>
-            <img src={Pointer} alt="Pointer" className="pointerThree" />
-            <p className="ten_text">Artocratia</p>
-            <img src={Pointer} alt="Pointer" className="pointerFour" />
           </div>
         </div>
       </div>

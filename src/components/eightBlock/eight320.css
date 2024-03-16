@@ -21,16 +21,13 @@
   padding: 10px 20px 0 0;
 }
 
-p {
+.eight_description_text {
   position: relative;
-  color: #FFFFFF;
   display: flex;
+  text-align: left;
+  color: #FFFFFF;
   justify-content: space-between;
   margin-bottom: 10px;
-}
-
-.eight_text {
-  text-align: left;
 }
 
 
