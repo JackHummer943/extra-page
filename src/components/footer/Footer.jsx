@@ -9,7 +9,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="container">
         <div className="footer_row">
-          <div className="footer_text">
+          <div className="footer_title">
             <strong>CONTACT US</strong>
           </div>
         </div>
@@ -24,7 +24,7 @@ const Footer = () => {
           <p className="central_left_text">Linkedin</p>
           <p className="central_left_mail">studio@vernissage.art</p>
           <p className="central_left_text_last">Terms and conditions</p>
-          <img className="footer_pointer" src={Pointer} alt="logo" />
+          {/* <img className="footer_pointer" src={Pointer} alt="logo" /> */}
         </div>
         <div className="footer_central_rigth">
           <div className="row">
@@ -63,7 +63,7 @@ const Footer = () => {
           </button>
         </div>
         <div className="last_block_col_three">
-          <img src={LogoLast} alt="LogoLast" />
+          <img className="logo_last" src={LogoLast} alt="LogoLast" />
         </div>
       </div>
     </footer>

@@ -1,0 +1,40 @@
+.eight {
+  position: relative;
+  width: 1920px;
+  padding: 0 5% 0;
+}
+
+.eight_row {
+  padding: 5% 1% 5%;
+  color: #FFFFFF;
+}
+
+.eight_title {
+  width: 12.48%;
+  height: 5.36%;
+  margin-right: 30%;
+  font-family: 'Neue Montreal';
+  font-size: 45px;
+  font-weight: 500;
+  line-height: 50px;
+  letter-spacing: -0.011em;
+  text-align: left;
+}
+
+.eight_description {
+  font-family: 'Neue Montreal';
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 31px;
+    letter-spacing: -0.011em;
+    text-align: left;
+}
+
+.eight_description_text {
+  color: #FFFFFF;
+  margin-bottom: 5%;
+  justify-content: space-between;
+  text-align: left;
+}
+
+

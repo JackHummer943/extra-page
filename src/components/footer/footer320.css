@@ -5,7 +5,8 @@
 .footer_row {
   display: flex;
   font-size: 8px;
-  padding: 10px 40px 10px;
+  padding-left: 40px;
+  padding-top: 10px;
 }
 
 .footer_line {
@@ -63,7 +64,7 @@ p {
   padding: 2px;
   background-color: #e8e8e8;
   border-radius: 5px;
-  font-size: 6px;
+  font-size: 8px;
   color: #BFBFBF;
   text-indent: 5px;
 }

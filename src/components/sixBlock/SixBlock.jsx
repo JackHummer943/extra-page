@@ -6,7 +6,7 @@ const SixBlock = () => {
         <div className="six_row">
           <div className="six_title">CURATORIAL PROCESS</div>
           <div className="six_description">
-            <p className="six_text">
+            <p className="six_description_text">
               In the first step of the process, I went through all of the applications and selected
               the ones that were suitable and in line with the overall concept of the exhibition.
               Following the initial selection, we discussed various presentation ideas for each
@@ -15,7 +15,7 @@ const SixBlock = () => {
               of this process. Following the submission of a few artists who were late, the final
               list was compiled and validated with the Vernissage team.
             </p>
-            <p className="six_text">
+            <p className="six_description_text">
               Digital art exhibitions follow a different set of curatorial procedures than their
               physical counterparts. There is a distinction between the two. The magic of a physical
               exhibition (a traditional exhibition) takes place on the floor during the process of
@@ -26,7 +26,7 @@ const SixBlock = () => {
               technical team. One of the most fascinating aspects of curating a digital exhibition
               is the fact that it can be done from any location in the world.
             </p>
-            <p className="six_text">Marina Alvitr, Curator</p>
+            <p className="six_description_text">Marina Alvitr, Curator</p>
           </div>
         </div>
       </div>
