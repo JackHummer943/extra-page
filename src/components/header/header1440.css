@@ -1,0 +1,20 @@
+.header {
+  width: 1440px;
+  padding: 3%;
+}
+
+.header_row {
+  display: flex;
+  justify-content: space-between;
+}
+
+img {
+  display: block;
+  float: left;
+}
+
+.header_logo {
+  position: relative;
+  transform: scale(1);
+  left: 5%;
+}
