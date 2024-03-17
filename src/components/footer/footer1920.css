@@ -70,7 +70,7 @@ text-align: left;
 }
 
 .central_left_text_last {
-  margin: 7% 0 0%;
+  margin: 20% 0 0%;
 }
 
 .footer_rigth_container {
@@ -160,9 +160,9 @@ text-align: left;
 
 .button_menu_pointer {
   position: relative;
-  transform: scale(0.7);
+  transform: scale(0.6);
   left: 10px;
-  top: 5px;
+  top: 10px;
 }
 
 .button_menu {
@@ -177,19 +177,20 @@ text-align: left;
 
 .burger {
   transform: scale(1);
+  padding-top: 10%;
 }
 
 .button_menu_submit {
   font-size: 18.8px;
   color: #FFFFFF;
   margin: 0px;
-  top: 5px;
+  top: 10px;
   left: 5px;
 }
 
 .button_menu_text {
   top: 0px;
-  left: 15px;
+  left: 20px;
   font-family: 'Manrope';
   font-size: 19px;
   font-weight: 600;
