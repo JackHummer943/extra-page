@@ -4,11 +4,6 @@
   padding: 0 5% 0;
 }
 
-.four_title {
-  display: flex;
-  justify-content: space-between;
-}
-
 .four_row {
   padding: 5% 1% 5%;
   display: flex;
@@ -16,6 +11,8 @@
 }
 
 .four_title {
+  display: flex;
+  justify-content: space-between;
   width: 11.48%;
   height: 5.36%;
   margin-right: 25%;

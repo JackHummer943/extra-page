@@ -1,25 +1,22 @@
 .four {
   position: relative;
-    width: 1440px;
-    padding: 0 5% 0;
-}
-
-.four_title {
-  display: flex;
-  justify-content: space-between;
+  width: 1440px;
+  padding: 0 5% 0;
 }
 
 .four_row {
   padding: 5% 1% 5%;
   display: flex;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .four_title {
+  display: flex;
+  justify-content: space-between;
   /* 240px */
-  width: 12.48%; 
+  width: 12.48%;
   /* 103px */
-  height:  5.36%; 
+  height: 5.36%;
   margin-right: 28%;
   font-family: 'Neue Montreal';
   font-size: 40px;
@@ -40,12 +37,9 @@
 
 .four_description_text {
   position: relative;
-  color: #FFFFFF;
+  color: #ffffff;
   display: flex;
   margin-bottom: 5%;
   justify-content: space-between;
   text-align: left;
 }
-
-
-
