@@ -1,5 +1,5 @@
 @import url('./header320.css') (min-width: 320px);
-/* @import url('./header480.css') (min-width: 480px); */
+@import url('./header480.css') (min-width: 480px);
 @import url('./header768.css') (min-width: 768px);
 @import url('./header992.css') (min-width: 992px);
 @import url('./header1200.css') (min-width: 1200px);

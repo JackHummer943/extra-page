@@ -5,6 +5,7 @@
 }
 
 .ten_row {
+  display: flex;
   padding: 5% 1% 5%;
 }
 

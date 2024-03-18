@@ -68,7 +68,7 @@
 }
 
 .central_left_text_last {
-  margin: 38% 0 0%;
+  margin: 17% 0 0%;
 }
 
 .footer_rigth_container {
@@ -95,7 +95,7 @@
   display: flex;
   width: 92%;
   padding: 0% 1% 0%;
-  margin-top: 7%;
+  margin-top: 1%;
 }
 
 .footer_pointer {
@@ -150,6 +150,7 @@
   width: 160px;
   height: 50px;
   padding: 10px 50px 10px 50px;
+  margin: 0% 0% 0%;
   margin-left: 145px;
   border-radius: 13px;
   background-color: #0b0b0b66;

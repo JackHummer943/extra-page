@@ -5,6 +5,7 @@
 }
 
 .eight_row {
+  display: flex;
   padding: 5% 1% 5%;
   color: #ffffff;
 }

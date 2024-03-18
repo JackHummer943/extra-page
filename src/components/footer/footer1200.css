@@ -44,12 +44,13 @@
 .footer_central_rigth {
   position: relative;
   padding: 3% 0% 0%;
+  margin: 0% 0% 0%;
   left: 5%;
 }
 
 .central_left_mail {
   text-decoration: underline;
-  margin: 15% 0 15%;
+  margin: 10% 0 10%;
 }
 
 .footer_rigth_text {
@@ -68,7 +69,7 @@
 }
 
 .central_left_text_last {
-  margin: 20% 0 0%;
+  margin: 12% 0 0%;
 }
 
 .footer_rigth_container {
@@ -95,7 +96,7 @@
   display: flex;
   width: 92%;
   padding: 0% 4% 0%;
-  margin-top: 7%;
+  margin-top: 2%;
 }
 
 .footer_pointer {
@@ -150,6 +151,7 @@
   width: 160px;
   height: 50px;
   padding: 10px 50px 10px 50px;
+  margin: 0% 0% 0%;
   margin-left: 185px;
   border-radius: 13px;
   background-color: #0b0b0b66;

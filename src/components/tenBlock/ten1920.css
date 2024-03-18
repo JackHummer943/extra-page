@@ -1,10 +1,11 @@
 .ten {
-    position: relative;
-    width: 1920px;
-    padding: 0 5% 0;
+  position: relative;
+  width: 1920px;
+  padding: 0 5% 0;
 }
 
 .ten_row {
+  display: flex;
   padding: 5% 1% 5%;
 }
 
@@ -43,13 +44,9 @@
   display: flex;
   width: 265px;
   height: auto;
-} 
-
+}
 
 .pict {
   position: relative;
   transform: scale(1);
 }
-
-
-

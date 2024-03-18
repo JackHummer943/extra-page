@@ -1,4 +1,5 @@
 @import url('./eight320.css') (min-width: 320px);
+@import url('./eight480.css') (min-width: 480px);
 @import url('./eight768.css') (min-width: 768px);
 @import url('./eight992.css') (min-width: 992px);
 @import url('./eight1200.css') (min-width: 1200px);

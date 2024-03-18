@@ -1,19 +1,22 @@
-.eight {
+.four {
   position: relative;
-  width: 768px;
-  padding: 0 5% 0;
+  width: 480px;
+  padding: 0 3% 0;
 }
 
-.eight_row {
-  display: flex;
+.four_row {
   padding: 5% 1% 5%;
+  display: block;
   color: #ffffff;
 }
 
-.eight_title {
-  width: 12.48%;
-  height: 5.36%;
-  margin-right: 35%;
+.four_title {
+  display: flex;
+  justify-content: space-between;
+  width: auto;
+  height: auto;
+  padding: 2% 3% 1%;
+  margin-right: 0%;
   font-family: 'Neue Montreal';
   font-size: 30px;
   font-weight: 500;
@@ -22,7 +25,8 @@
   text-align: left;
 }
 
-.eight_description {
+.four_description {
+  padding: 2% 3% 1%;
   font-family: 'Neue Montreal';
   font-size: 18px;
   font-weight: 400;
@@ -31,8 +35,10 @@
   text-align: left;
 }
 
-.eight_description_text {
+.four_description_text {
+  position: relative;
   color: #ffffff;
+  display: flex;
   margin-bottom: 5%;
   justify-content: space-between;
   text-align: left;

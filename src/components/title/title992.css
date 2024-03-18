@@ -42,6 +42,7 @@
 
 .title_filter {
   display: flex;
+  padding: 0% 0% 0%;
   margin-left: 1%;
   column-gap: 3%;
 }

@@ -1,6 +1,6 @@
 .title {
   position: relative;
-  width: 768px;
+  width: 480px;
   padding: 0 3% 0;
 }
 
@@ -42,10 +42,9 @@
 }
 
 .title_filter {
-  display: flex;
-  padding: 0% 0% 3%;
+  position: static;
+  padding: 0% 0% 6%;
   margin-left: 0%;
-  column-gap: 3%;
 }
 
 .title_line {

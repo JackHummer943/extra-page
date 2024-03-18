@@ -10,12 +10,12 @@
 }
 
 .footer_title {
-    font-family: 'Neue Montreal';
-    font-size: 45px;
-    font-weight: 500;
-    line-height: 50px;
-    letter-spacing: -0.011em;
-    text-align: left;
+  font-family: 'Neue Montreal';
+  font-size: 45px;
+  font-weight: 500;
+  line-height: 50px;
+  letter-spacing: -0.011em;
+  text-align: left;
 }
 
 .line {
@@ -23,46 +23,46 @@
   height: 0.5px;
   border-radius: 1px;
   margin-left: 40px;
-  background: #0C0C0C;
+  background: #0c0c0c;
 }
 
 .footer_central {
   display: flex;
   width: 1600px;
-  height: 538px; 
+  height: 538px;
 }
 
 .footer_central_left {
   padding: 5% 0% 0%;
   width: 800px;
   font-family: 'Neue Montreal';
-font-size: 40px;
-font-weight: 400;
-line-height: 44px;
-letter-spacing: -0.011em;
-text-align: left;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 44px;
+  letter-spacing: -0.011em;
+  text-align: left;
 }
 
 .footer_central_rigth {
   position: relative;
-  padding: 5% 0% 0%;
+  padding: 0% 0% 0%;
   left: 5%;
 }
 
 .central_left_mail {
   text-decoration: underline;
-  margin: 15% 0 15%;
+  margin: 5% 0 5%;
 }
 
 .footer_rigth_text {
   width: 800px;
   margin-bottom: 5%;
   font-family: 'Neue Montreal';
-font-size: 40px;
-font-weight: 400;
-line-height: 44px;
-letter-spacing: -0.011em;
-text-align: left;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 44px;
+  letter-spacing: -0.011em;
+  text-align: left;
 }
 
 .central_left_text {
@@ -70,12 +70,12 @@ text-align: left;
 }
 
 .central_left_text_last {
-  margin: 20% 0 0%;
+  margin: 5% 0 0%;
 }
 
 .footer_rigth_container {
-    position: relative;
-    top: 3%;
+  position: relative;
+  top: 3%;
 }
 
 .input {
@@ -85,7 +85,7 @@ text-align: left;
   margin: 1% 0% 1%;
   border-radius: 20px;
   background-color: #e8e8e8;
-  color: #BFBFBF;
+  color: #bfbfbf;
   text-indent: 3%;
   font-family: 'General Sans';
   font-size: 19px;
@@ -98,11 +98,11 @@ text-align: left;
   display: flex;
   width: 1600px;
   padding: 0% 3% 0%;
-  margin-top: 8%;
+  margin-top: 0%;
 }
 
 .footer_pointer {
-  color:#0C0C0C;
+  color: #0c0c0c;
 }
 
 .checkbox {
@@ -122,7 +122,7 @@ text-align: left;
   padding-top: 0px;
   margin-left: 20px;
   font-family: 'Neue Montreal';
-  color: #6C6C6C;
+  color: #6c6c6c;
   font-size: 20px;
   font-weight: 400;
   line-height: 22px;
@@ -152,9 +152,10 @@ text-align: left;
   width: 210px;
   height: 64px;
   padding: 10px 50px 10px 50px;
+  margin: 0% 0% 0%;
   margin-left: 245px;
   border-radius: 20px;
-  background-color: #0B0B0B66;
+  background-color: #0b0b0b66;
   font-size: 18.8px;
 }
 
@@ -171,8 +172,8 @@ text-align: left;
   height: 55px;
   padding: 15px 30px 15px 30px;
   gap: 20px;
-  border-radius: 20px; 
-  background-color: #0C0C0C;
+  border-radius: 20px;
+  background-color: #0c0c0c;
 }
 
 .burger {
@@ -182,7 +183,7 @@ text-align: left;
 
 .button_menu_submit {
   font-size: 18.8px;
-  color: #FFFFFF;
+  color: #ffffff;
   margin: 0px;
   top: 10px;
   left: 5px;
@@ -197,7 +198,7 @@ text-align: left;
   line-height: 28px;
   letter-spacing: -0.011em;
   text-align: left;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .footer_logo {

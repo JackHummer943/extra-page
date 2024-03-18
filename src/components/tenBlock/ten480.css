@@ -1,16 +1,18 @@
 .ten {
   position: relative;
-  width: 768px;
+  width: 480px;
   padding: 0 5% 0;
 }
 
 .ten_row {
-  display: flex;
+  display: block;
   padding: 5% 1% 5%;
 }
 
 .ten_title {
-  height: 5.36%;
+  width: auto;
+  height: auto;
+  padding: 2% 3% 1%;
   margin-right: 0%;
   font-family: 'Neue Montreal';
   font-size: 30px;
@@ -22,7 +24,7 @@
 
 .ten_description {
   width: auto;
-  padding: 5px 10px 10px 35px;
+  padding: 2% 3% 1%;
   font-family: 'Neue Montreal';
   font-size: 18px;
   font-weight: 400;
