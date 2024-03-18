@@ -165,7 +165,7 @@
 }
 
 .button_menu {
-  position: relative;
+  position: static;
   width: 120px;
   height: 50px;
   padding: 10px 30px 10px 30px;
