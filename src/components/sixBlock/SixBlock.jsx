@@ -1,4 +1,4 @@
-import './sixBlock.css';
+import './six.css';
 const SixBlock = () => {
   return (
     <section className="six">

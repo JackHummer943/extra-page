@@ -1,0 +1,38 @@
+.six {
+  position: relative;
+  width: 992px;
+  padding: 0 5% 0;
+}
+
+.six_row {
+  padding: 5% 1% 5%;
+  color: #ffffff;
+}
+
+.six_title {
+  width: 12.48%;
+  height: 5.36%;
+  margin-right: 25%;
+  font-family: 'Neue Montreal';
+  font-size: 35px;
+  font-weight: 500;
+  line-height: 50px;
+  letter-spacing: -0.011em;
+  text-align: left;
+}
+
+.six_description {
+  font-family: 'Neue Montreal';
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: -0.011em;
+  text-align: left;
+}
+
+.six_description_text {
+  color: #ffffff;
+  margin-bottom: 5%;
+  justify-content: space-between;
+  text-align: left;
+}

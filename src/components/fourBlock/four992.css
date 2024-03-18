@@ -1,0 +1,46 @@
+.four {
+  position: relative;
+  width: 992px;
+  padding: 0 5% 0;
+}
+
+.four_title {
+  display: flex;
+  justify-content: space-between;
+}
+
+.four_row {
+  padding: 5% 1% 5%;
+  display: flex;
+  color: #ffffff;
+}
+
+.four_title {
+  width: 11.48%;
+  height: 5.36%;
+  margin-right: 25%;
+  font-family: 'Neue Montreal';
+  font-size: 35px;
+  font-weight: 500;
+  line-height: 50px;
+  letter-spacing: -0.011em;
+  text-align: left;
+}
+
+.four_description {
+  font-family: 'Neue Montreal';
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: -0.011em;
+  text-align: left;
+}
+
+.four_description_text {
+  position: relative;
+  color: #ffffff;
+  display: flex;
+  margin-bottom: 5%;
+  justify-content: space-between;
+  text-align: left;
+}
