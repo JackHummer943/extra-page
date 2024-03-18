@@ -1,3 +1,4 @@
 @import url('./ten320.css') (min-width: 320px);
+@import url('./ten1200.css') (min-width: 1200px);
 @import url('./ten1440.css') (min-width: 1440px);
 @import url('./ten1920.css') (min-width: 1920px);

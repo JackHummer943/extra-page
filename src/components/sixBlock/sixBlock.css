@@ -1,3 +1,4 @@
 @import url('./sixBlock320.css') (min-width: 320px);
+@import url('./six1200.css') (min-width: 1200px);
 @import url('./sixBlock1440.css') (min-width: 1440px);
 @import url('./sixBlock1920.css') (min-width: 1920px);
