@@ -32,10 +32,10 @@ const Footer = () => {
             <p className="footer_rigth_text">
               <strong>Leave us a message</strong>
             </p>
-            <input className="input" value="Your name"></input> <br />
-            <input className="input" value="Your Email"></input> <br />
-            <input className="input" value="Phone"></input> <br />
-            <input className="input" value="Message"></input> <br />
+            <input className="input" value="Your name"></input> <br className="br" />
+            <input className="input" value="Your Email"></input> <br className="br" />
+            <input className="input" value="Phone"></input> <br className="br" />
+            <input className="input" value="Message"></input> <br className="br" />
             <div className="footer_rigth_container">
               {' '}
               <div className="row_checkbox">
