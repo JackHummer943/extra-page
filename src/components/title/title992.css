@@ -6,7 +6,6 @@
 
 .title_row {
   display: flex;
-  height: 56px;
   color: #ffffff;
   font-size: 8px;
   padding: 0%;
@@ -24,17 +23,17 @@
 
 .button {
   position: relative;
-  width: 80px;
+  width: 90px;
   height: 25px;
   border-radius: 80px;
-  top: 36%;
+  top: 32%;
 }
 
 .button span {
   position: relative;
-  left: 12%;
+  left: 16%;
   font-family: 'Neue Montreal';
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 500;
   line-height: 27px;
   letter-spacing: -0.011em;
@@ -43,7 +42,7 @@
 
 .title_filter {
   display: flex;
-  margin-left: 2%;
+  margin-left: 1%;
   column-gap: 3%;
 }
 
