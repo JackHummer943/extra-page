@@ -1,16 +1,17 @@
 .footer {
+  display: none;
   position: relative;
-  padding: 0 5% 0;
+  padding: 0 3% 0;
 }
 
 .footer_row {
   display: flex;
-  padding: 1% 4% 0%;
+  padding: 5% 8% 0%;
 }
 
 .footer_title {
   font-family: 'Neue Montreal';
-  font-size: 35px;
+  font-size: 30px;
   font-weight: 500;
   line-height: 50px;
   letter-spacing: -0.011em;
@@ -18,23 +19,23 @@
 }
 
 .line {
-  width: 92%;
+  width: 88%;
   height: 0.5px;
   border-radius: 1px;
   background: #0c0c0c;
 }
 
 .footer_central {
-  display: flex;
+  display: block;
   width: 92%;
-  height: 338px;
+  height: auto;
 }
 
 .footer_central_left {
   padding: 3% 0% 0%;
-  width: 500px;
+  width: auto;
   font-family: 'Neue Montreal';
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 400;
   line-height: 35px;
   letter-spacing: -0.011em;
@@ -44,12 +45,13 @@
 .footer_central_rigth {
   position: relative;
   padding: 3% 0% 0%;
+  margin: 0% 0% 0%;
   left: 5%;
 }
 
 .central_left_mail {
   text-decoration: underline;
-  margin: 15% 0 15%;
+  margin: 0% 0 0%;
 }
 
 .footer_rigth_text {
@@ -68,7 +70,7 @@
 }
 
 .central_left_text_last {
-  margin: 17% 0 0%;
+  margin: 10% 0 0%;
 }
 
 .footer_rigth_container {
@@ -77,25 +79,30 @@
 }
 
 .input {
+  margin: 4% 0% 4%;
   display: flex;
-  width: 525px;
-  height: 38px;
+  width: 300px;
+  height: 50px;
   border-radius: 20px;
   background-color: #e8e8e8;
   color: #bfbfbf;
-  text-indent: 3%;
+  text-indent: 5%;
   font-family: 'General Sans';
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 500;
-  line-height: 20px;
+  line-height: 15px;
   letter-spacing: -0.011em;
 }
 
+.br {
+  display: none;
+}
+
 .footer_last_block {
-  display: flex;
+  display: block;
   width: 92%;
-  padding: 0% 1% 0%;
-  margin-top: 1%;
+  padding: 0% 3% 0%;
+  margin-top: 3%;
 }
 
 .footer_pointer {
@@ -112,11 +119,12 @@
 }
 
 .row_checkbox {
-  display: flex;
+  display: block;
 }
 
 .checkbox_description {
-  top: 15px;
+  top: 0%;
+  left: 3%;
   padding-top: 0px;
   margin-left: 10px;
   font-family: 'Neue Montreal';
@@ -130,19 +138,19 @@
 
 .last_block_col_one {
   position: relative;
-  width: 300px;
+  width: auto;
   left: 2%;
 }
 
 .last_block_col_two {
   position: relative;
-  width: 800px;
+  width: auto;
 }
 
 .last_block_col_three {
   position: relative;
-  width: 300px;
-  left: 15%;
+  width: auto;
+  left: 16%;
 }
 
 .button_submit {
@@ -150,9 +158,8 @@
   width: 160px;
   height: 50px;
   padding: 10px 50px 10px 50px;
-  margin: 0% 0% 0%;
-  margin-left: 145px;
-  border-radius: 13px;
+  margin: 15% 0% 0%;
+  border-radius: 20px;
   background-color: #0b0b0b66;
   font-size: 18.8px;
 }
@@ -165,7 +172,9 @@
 }
 
 .button_menu {
-  position: static;
+  position: absolute;
+  left: 40%;
+  bottom: 305px;
   width: 120px;
   height: 50px;
   padding: 10px 30px 10px 30px;
@@ -202,7 +211,8 @@
 }
 
 .footer_logo {
-  transform: scale(0.8);
+  padding: 10% 20% 10%;
+  transform: scale(1);
 }
 
 .logo_last {

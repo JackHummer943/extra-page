@@ -5,11 +5,6 @@ import Image from './components/image/Image';
 import FourBlock from './components/fourBlock/FourBlock';
 import SixBlock from './components/sixBlock/SixBlock';
 import EightBlock from './components/eightBlock/EightBlock';
-// import FirstImage from './components/image/firstImage/FirstImage';
-
-// import twoImage from './../src/img/twoImage.png';
-// import thirdImage from './../src/img/thirdImage.png';
-// import fourthImage from './../src/img/fourthImage.png';
 
 import TenBlock from './components/tenBlock/TenBlock';
 import Footer from './components/footer/Footer';
@@ -29,6 +24,9 @@ function App() {
       <SixBlock />
       {/* <Image src={thirdImage} alt="Image 3" /> */}
       {/* <ThirdImage /> */}
+      <video>
+        <source src="https://vimeo.com/895719838" type="video"></source>
+      </video>
       <Image className="imageThird" />
       <EightBlock />
       {/* <Image src={fourthImage} alt="Image 4" /> */}

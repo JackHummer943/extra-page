@@ -1,3 +1,7 @@
 @import url('./image320.css') (min-width: 320px);
 @import url('./image390.css') (min-width: 390px);
+@import url('./image480.css') (min-width: 480px);
+@import url('./image768.css') (min-width: 768px);
+@import url('./image992.css') (min-width: 992px);
+@import url('./image1440.css') (min-width: 1440px);
 @import url('./image1920.css') (min-width: 1920px);

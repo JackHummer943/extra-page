@@ -26,7 +26,7 @@ const SixBlock = () => {
               technical team. One of the most fascinating aspects of curating a digital exhibition
               is the fact that it can be done from any location in the world.
             </p>
-            <p className="six_description_text">Marina Alvitr, Curator</p>
+            <p className="six_description_signature">Marina Alvitr, Curator</p>
           </div>
         </div>
       </div>

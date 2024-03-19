@@ -6,14 +6,16 @@
 
 .eight_row {
   display: flex;
-  padding: 5% 1% 5%;
+  padding: 7% 1% 7%;
   color: #ffffff;
 }
 
 .eight_title {
-  width: 12.48%;
+  width: 35%;
   height: 5.36%;
-  margin-right: 30%;
+  padding: 2% 0% 0%;
+  /* margin-left: 0%; */
+  margin-right: 6%;
   font-family: 'Neue Montreal';
   font-size: 40px;
   font-weight: 500;

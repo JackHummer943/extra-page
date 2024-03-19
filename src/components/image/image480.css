@@ -1,0 +1,37 @@
+.imageFirst {
+  width: auto;
+  height: auto;
+  background-size: contain;
+  background-repeat: no-repeat;
+  aspect-ratio: 480 / 270;
+  margin: 5% 0% 0%;
+  background-image: url('./../../img/MainImg.png');
+}
+
+.imageSecond {
+  width: auto;
+  height: auto;
+  background-size: contain;
+  background-repeat: no-repeat;
+  aspect-ratio: 480 / 270;
+  margin: 5% 0% 0%;
+  background-image: url('./../../img/secondImage.png');
+}
+
+.imageThird {
+  background-size: contain;
+  background-repeat: no-repeat;
+  aspect-ratio: 480 / 270;
+  margin: 5% 0% 0%;
+  background-image: url('./../../img/thirdImage.png');
+}
+
+.imageFourth {
+  width: auto;
+  height: auto;
+  background-size: contain;
+  background-repeat: no-repeat;
+  aspect-ratio: 480 / 270;
+  margin: 5% 0% 0%;
+  background-image: url('./../../img/fourthImage.png');
+}
