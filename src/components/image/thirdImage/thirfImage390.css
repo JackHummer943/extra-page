@@ -1,0 +1,9 @@
+.imageThird {
+  width: 390px;
+  height: 596px;
+  margin: 10% 0% 0%;
+  background-image: url('./../../../img/thirdImage.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  aspect-ratio: 423 / 237;
+}

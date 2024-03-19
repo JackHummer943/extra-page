@@ -1,20 +1,20 @@
 .title {
   position: relative;
-  width: 480px;
+  width: 390px;
   padding: 0 3% 0;
 }
 
 .title_row {
+  flex-direction: column;
   display: flex;
-  flex-direction: row;
   color: #ffffff;
   font-size: 8px;
   padding: 0%;
 }
 
 .title_text {
-  order: 0;
-  width: 75%;
+  order: 2;
+  width: 100%;
   padding-left: 3%;
   font-family: 'Neue Montreal';
   font-size: 30px;
@@ -27,6 +27,7 @@
 .button {
   position: relative;
   width: 70px;
+  margin-left: 5%;
   height: 22px;
   border-radius: 80px;
   top: 39%;
@@ -46,9 +47,9 @@
 .title_filter {
   order: 1;
   position: static;
-  padding: 0% 0% 6%;
-  margin-right: 0%;
+  padding: 0% 0% 5%;
   margin-left: 0%;
+  margin-right: 55%;
 }
 
 .title_line {

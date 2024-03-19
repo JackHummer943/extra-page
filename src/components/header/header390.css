@@ -1,0 +1,19 @@
+.header {
+  width: 390px;
+  padding: 5% 9% 5%;
+}
+
+.header_row {
+  display: flex;
+  justify-content: space-between;
+}
+
+img {
+  display: block;
+  float: left;
+}
+
+.header_logo {
+  position: relative;
+  transform: scale(0.7);
+}

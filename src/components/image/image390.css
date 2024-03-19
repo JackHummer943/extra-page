@@ -1,0 +1,34 @@
+/* .background_image {
+  background-image: url('./../../img/background.png');
+} */
+
+.imageFirst {
+  width: 390px;
+  height: 596px;
+  margin: 10% 0% 0%;
+  background-image: url('./../../img/image390.png');
+}
+
+.imageSecond {
+  width: 390px;
+  height: 596px;
+  margin: 10% 0% 0%;
+  background-image: url('./../../../img/secondImage390.png');
+}
+
+.imageThird {
+  width: 390px;
+  height: 596px;
+  margin: 10% 0% 0%;
+  background-image: url('./../../../img/thirdImage.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  aspect-ratio: 423 / 237;
+}
+
+.imageFourth {
+  width: 390px;
+  height: 596px;
+  margin: 10% 0% 0%;
+  background-image: url('./../../../img/fourthImage390.png');
+}
