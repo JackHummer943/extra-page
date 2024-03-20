@@ -6,17 +6,18 @@
 
 .ten_row {
   display: block;
+  width: 300px;
   padding: 5% 1% 25%;
   color: #ffffff;
 }
 
 .ten_title {
-  width: 50%;
+  width: 200px;
   height: auto;
   padding: 2% 3% 1%;
   margin: 5% 0% 5%;
   font-family: 'Neue Montreal';
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 500;
   line-height: 40px;
   letter-spacing: -0.011em;
@@ -37,7 +38,7 @@
 .ten_text {
   margin-right: 15%;
   font-family: 'Neue Montreal';
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 31px;
   letter-spacing: -0.011em;

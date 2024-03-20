@@ -1,7 +1,7 @@
 .imageFirst {
   background-size: contain;
   background-repeat: no-repeat;
-  aspect-ratio: 320 / 512;
+  aspect-ratio: 320/512;
   margin: 3% 0% 0%;
   background-image: url('./../../img/image390.png');
 }
@@ -9,7 +9,7 @@
 .imageSecond {
   background-size: contain;
   background-repeat: no-repeat;
-  aspect-ratio: 320 / 512;
+  aspect-ratio: 320/512;
   margin: 7% 0% 0%;
   background-image: url('./../../img/secondImage390.png');
 }
@@ -25,7 +25,7 @@
 .imageFourth {
   background-size: contain;
   background-repeat: no-repeat;
-  aspect-ratio: 320 / 512;
+  aspect-ratio: 320/512;
   margin: 7% 0% 0%;
   background-image: url('./../../img/fourthImage390.png');
 }
