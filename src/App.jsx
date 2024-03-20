@@ -13,7 +13,6 @@ import Video from './components/video/Video';
 function App() {
   return (
     <div className="App">
-      <Header />
       <Title />
       <Image className="imageFirst" />
       <FourBlock />
@@ -23,7 +22,6 @@ function App() {
       <EightBlock />
       <Image className="imageFourth" />
       <TenBlock />
-      <Footer />
     </div>
   );
 }

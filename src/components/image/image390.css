@@ -1,13 +1,15 @@
 .imageFirst {
-  width: 390px;
-  height: 596px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  aspect-ratio: 390/596;
   margin: 7% 0% 0%;
   background-image: url('./../../img/image390.png');
 }
 
 .imageSecond {
-  width: 390px;
-  height: 596px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  aspect-ratio: 390/596;
   margin: 7% 0% 0%;
   background-image: url('./../../img/secondImage390.png');
 }
@@ -21,8 +23,9 @@
 }
 
 .imageFourth {
-  width: 390px;
-  height: 596px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  aspect-ratio: 390/596;
   margin: 7% 0% 0%;
   background-image: url('./../../img/fourthImage390.png');
 }
