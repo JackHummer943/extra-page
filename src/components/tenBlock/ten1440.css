@@ -10,8 +10,9 @@
 }
 
 .ten_title {
+  width: 60%;
   height: 5.36%;
-  margin-right: 10%;
+  margin-right: 0%;
   font-family: 'Neue Montreal';
   font-size: 40px;
   font-weight: 500;
