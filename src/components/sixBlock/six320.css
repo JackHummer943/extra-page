@@ -1,30 +1,50 @@
+.six {
+  position: relative;
+  width: 320px;
+  padding: 0 5% 0;
+}
+
 .six_row {
-  display: flex;
-  color: #FFFFFF;
-  font-size: 8px;
-  padding-top: 15px;
-  padding-left: 40px;
+  display: block;
+  padding: 5% 1% 5%;
+  color: #ffffff;
 }
 
 .six_title {
-  display: flex;
-  justify-content: space-between;
-  padding: 10px 35px 0px 16px;
+  width: auto;
+  height: auto;
+  padding: 2% 3% 1%;
+  margin: 7% 0% 0%;
+  margin-right: 0%;
+  font-family: 'Neue Montreal';
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 40px;
+  letter-spacing: -0.011em;
   text-align: left;
 }
 
 .six_description {
-  font-size: 4px;
-  padding: 10px 20px 0 0;
-}
-
-.six_text {
-  position: relative;
-  display: flex;
+  font-family: 'Neue Montreal';
+  padding: 2% 3% 1%;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: -0.011em;
   text-align: left;
-  color: #FFFFFF;
-  justify-content: space-between;
-  margin-bottom: 10px;
 }
 
+.six_description_text {
+  color: #ffffff;
+  margin: 10% 0% 10%;
+  justify-content: space-between;
+  text-align: left;
+}
 
+.six_description_signature {
+  color: #ffffff;
+  margin: 10% 0% 10%;
+  justify-content: space-between;
+  text-align: left;
+  font-style: italic;
+}

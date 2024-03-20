@@ -1,33 +1,47 @@
-.four_title {
-  display: flex;
-  justify-content: space-between;
+.four {
+  position: relative;
+  width: 320px;
+  padding: 15% 7% 10%;
 }
 
 .four_row {
   display: flex;
-  color: #FFFFFF;
+  color: #ffffff;
   font-size: 8px;
-  padding-left: 40px;
+  flex-direction: column;
 }
 
 .four_title {
-  padding: 10px 35px 0px 16px;
+  display: flex;
+  justify-content: space-between;
+  width: auto;
+  height: auto;
+  padding: 2% 3% 1%;
+  margin: 7% 0% 5%;
+  font-family: 'Neue Montreal';
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: -0.011em;
   text-align: left;
 }
 
 .four_description {
-  font-size: 4px;
-  padding: 10px 20px 0 0;
+  padding: 2% 3% 1%;
+  font-family: 'Neue Montreal';
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: -0.011em;
+  text-align: left;
 }
 
 .four_description_text {
   position: relative;
-  color: #FFFFFF;
+  margin: 10% 0% 10%;
+  color: #ffffff;
   display: flex;
+  margin-bottom: 5%;
   justify-content: space-between;
-  margin-bottom: 10px;
   text-align: left;
 }
-
-
-

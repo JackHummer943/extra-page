@@ -8,6 +8,7 @@
   padding: 5% 1% 5%;
   display: block;
   color: #ffffff;
+  flex-direction: row;
 }
 
 .four_title {
