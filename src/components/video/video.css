@@ -1,3 +1,4 @@
+@import url('./video320.css') (min-width: 320px);
 @import url('./video390.css') (min-width: 390px);
 @import url('./video480.css') (min-width: 480px);
 @import url('./video768.css') (min-width: 768px);
