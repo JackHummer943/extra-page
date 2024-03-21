@@ -17,7 +17,7 @@
   font-family: 'Neue Montreal';
   font-size: 40px;
   font-weight: 500;
-  line-height: 50px;
+  line-height: 44px;
   letter-spacing: -0.011em;
   text-align: left;
 }
@@ -26,12 +26,13 @@
   font-family: 'Neue Montreal';
   font-size: 20px;
   font-weight: 400;
-  line-height: 31px;
+  line-height: 25px;
   letter-spacing: -0.011em;
   text-align: left;
 }
 
 .six_description_text {
+  margin: 7% 0% 7%;
   color: #ffffff;
   margin-bottom: 5%;
   justify-content: space-between;
