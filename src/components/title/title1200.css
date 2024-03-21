@@ -32,12 +32,14 @@
   position: relative;
   display: flex;
   left: 20%;
+  bottom: 0%;
 }
 
 .button_two {
   position: relative;
   display: flex;
   left: 13%;
+  bottom: 0%;
 }
 
 .title_filter {

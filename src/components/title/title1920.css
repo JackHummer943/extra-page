@@ -11,6 +11,7 @@
 
 .title_text {
   position: relative;
+  width: 73.5%;
   padding-left: 0%;
   font-family: 'Neue Montreal';
   font-size: 45px;
@@ -41,8 +42,21 @@
 
 .title_filter {
   display: flex;
-  margin-left: 7%;
+  margin-left: 5%;
   column-gap: 3%;
+}
+
+.button_one {
+  position: relative;
+  display: flex;
+  left: 25%;
+  bottom: 0%;
+}
+
+.button_two {
+  position: relative;
+  display: flex;
+  left: 14%;
 }
 
 .title_line {

@@ -27,7 +27,7 @@
   width: 90px;
   height: 25px;
   border-radius: 80px;
-  top: 32%;
+  top: 40%;
   position: relative;
   left: 10%;
   font-family: 'Neue Montreal';
@@ -41,12 +41,14 @@
   position: relative;
   display: flex;
   left: 15%;
+  bottom: 5%;
 }
 
 .button_two {
   position: relative;
   display: flex;
   left: 7%;
+  bottom: 5%;
 }
 
 .title_filter {
