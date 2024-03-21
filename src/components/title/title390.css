@@ -8,41 +8,47 @@
   flex-direction: column;
   display: flex;
   color: #ffffff;
-  font-size: 8px;
   padding: 0%;
 }
 
 .title_text {
   order: 2;
   width: 100%;
-  padding-left: 3%;
+  padding: 0% 0% 3% 3%;
   margin-bottom: 0%;
   font-family: 'Neue Montreal';
   font-size: 30px;
   font-weight: 500;
-  line-height: 40px;
+  line-height: 33px;
   letter-spacing: -0.011em;
   text-align: left;
 }
 
 .button {
   position: relative;
-  width: 70px;
+  width: 68px;
   margin-left: 5%;
-  height: 22px;
+  height: 20px;
   border-radius: 80px;
   top: 39%;
-}
-
-.button span {
-  position: relative;
-  left: 8%;
+  left: 0%;
   font-family: 'Neue Montreal';
   font-size: 12px;
   font-weight: 500;
-  line-height: 14px;
+  line-height: 18px;
   letter-spacing: -0.011em;
-  text-align: left;
+}
+
+.button_one {
+  position: relative;
+  display: flex;
+  left: 12%;
+}
+
+.button_two {
+  position: relative;
+  display: flex;
+  left: 5%;
 }
 
 .title_filter {

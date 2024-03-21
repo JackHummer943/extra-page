@@ -8,10 +8,10 @@ const Title = () => {
           <div className="title_text">TECHNOLOGY AND HUMANITY CANVAS</div>
           <div className="title_filter">
             <button className="button">
-              <span>Offline</span>
+              <div className="button_one">Offline</div>
             </button>
             <button className="button">
-              <span>Exhibition</span>
+              <div className="button_two">Exhibition</div>
             </button>
           </div>
         </div>

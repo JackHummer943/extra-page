@@ -12,11 +12,12 @@
 }
 
 .title_text {
-  padding: 3% 4% 0%;
+  width: 73%;
+  padding: 3% 0% 1% 4%;
   font-family: 'Neue Montreal';
   font-size: 35px;
   font-weight: 500;
-  line-height: 50px;
+  line-height: 35px;
   letter-spacing: -0.011em;
   text-align: left;
 }
@@ -27,9 +28,6 @@
   height: 25px;
   border-radius: 80px;
   top: 32%;
-}
-
-.button span {
   position: relative;
   left: 10%;
   font-family: 'Neue Montreal';
@@ -37,7 +35,18 @@
   font-weight: 500;
   line-height: 27px;
   letter-spacing: -0.011em;
-  text-align: left;
+}
+
+.button_one {
+  position: relative;
+  display: flex;
+  left: 15%;
+}
+
+.button_two {
+  position: relative;
+  display: flex;
+  left: 7%;
 }
 
 .title_filter {
@@ -48,7 +57,6 @@
 }
 
 .title_line {
-  bottom: 20px;
   width: 80%;
   height: 0.5px;
   margin-left: 40px;
@@ -57,7 +65,5 @@
 
 .title_line {
   width: 92%;
-  top: 355.13px;
-  left: 159px;
   background: #ffffff;
 }
