@@ -1,11 +1,9 @@
 :root {
-  --back:  #373737;
-  --text: #0C0C0C;
+  --back: #373737;
+  --text: #0c0c0c;
 }
 
-
 body {
-  /* font-family: 'Poppins', sans-serif; */
   color: var(--back);
 }
 

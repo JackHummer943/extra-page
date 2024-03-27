@@ -4,7 +4,7 @@ import Title from './components/title/Title';
 import Image from './components/image/Image';
 import FourBlock from './components/fourBlock/FourBlock';
 import SixBlock from './components/sixBlock/SixBlock';
-import EightBlock from './components/eightBlock/EightBlock';
+import EightBlock from './components/EightBlock/EightBlock';
 
 import TenBlock from './components/tenBlock/TenBlock';
 import Footer from './components/footer/Footer';
